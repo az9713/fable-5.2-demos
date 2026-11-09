@@ -10,7 +10,7 @@ A ray-traced, physically simulated bullet piercing a water balloon, in **one HTM
 
 ## Where the prompt comes from
 
-The prompt is the water-balloon test from Matthew Berman's video on Claude Fable 5.2. This repo is one model's answer to it, written by Claude Fable 5.2.
+The prompt is the water-balloon test from [Matthew Berman's video on Claude Fable 5.2](https://www.youtube.com/watch?v=0vNyVMDFdkg&t=9s). This repo is one model's answer to it, written by Claude Fable 5.2.
 
 > One HTML file with JavaScript, HTML, CSS, and WebGL2 for the graphics. No frameworks. No libraries. No external dependencies.
 >
